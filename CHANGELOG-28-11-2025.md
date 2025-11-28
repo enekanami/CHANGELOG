@@ -1,5 +1,5 @@
 ## KONBot v2.2.0: Dynamic Voice Channels & Multi-SuperUser Update
-*Дата выпуска: <t:1764446280:R>*
+*Дата выпуска: 28.11.2025*
 
 ### ✨ Новый функционал: Временные голосовые каналы (Temp Channels)
 
